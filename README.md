@@ -10,7 +10,7 @@ First, install dependencies (Intern and Grunt) `npm install`
 1. start ios-driver `java -jar ios-server-standalone-0.6.6-SNAPSHOT.jar -port 4444`
 1. `grunt intern:ios`
 
-## Anrdoid Instructions
+## Android Instructions
 
 1. Install [selendroid](http://selendroid.io/setup.html)
 1. Start selendroid `java -jar selendroid-standalone-0.13.0-with-dependencies.jar -port 4444`
